@@ -3,115 +3,114 @@
     "_id": 8001,
     "equipo_local": "Leonas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-20T20:00:00Z"),
+    "fecha": "2023-03-20",
     "arbitro_principal": "Julián González"
   },
   {
     "_id": 8002,
     "equipo_local": "Soho",
     "equipo_visitante": "Atheneas",
-    "fecha": ISODate("2023-03-20T20:30:00Z"),
+    "fecha": "2023-03-20",
     "arbitro_principal": "Pedro Cortés"
   },
   {
     "_id": 8003,
     "equipo_local": "Leonas",
     "equipo_visitante": "Soho",
-    "fecha": ISODate("2023-03-21T20:00:00Z"),
+    "fecha": "2023-03-21",
     "arbitro_principal": "Marcela Gaitán"
   },
   {
     "_id": 8004,
     "equipo_local": "Farplay",
     "equipo_visitante": "Atheneas",
-    "fecha": ISODate("2023-03-21T20:30:00Z"),
+    "fecha": "2023-03-21",
     "arbitro_principal": "Diana Rivera"
   },
   {
     "_id": 8005,
     "equipo_local": "Farplay",
     "equipo_visitante": "Leonas",
-    "fecha": ISODate("2023-03-22T20:00:00Z"),
+    "fecha": "2023-03-22",
     "arbitro_principal": "Julián González"
   },
   {
     "_id": 8006,
     "equipo_local": "Atheneas",
     "equipo_visitante": "Soho",
-    "fecha": ISODate("2023-03-22T20:30:00Z"),
+    "fecha": "2023-03-22",
     "arbitro_principal": "Pedro Cortés"
   },
   {
     "_id": 8007,
     "equipo_local": "Soho",
     "equipo_visitante": "Leonas",
-    "fecha": ISODate("2023-03-23T20:00:00Z"),
+    "fecha": "2023-03-23",
     "arbitro_principal": "Marcela Gaitán"
   },
   {
     "_id": 8008,
     "equipo_local": "Atheneas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-23T20:30:00Z"),
+    "fecha": "2023-03-23",
     "arbitro_principal": "Diana Rivera"
   },
   {
     "_id": 8009,
     "equipo_local": "Farplay",
     "equipo_visitante": "Soho",
-    "fecha": ISODate("2023-03-24T20:00:00Z"),
+    "fecha": "2023-03-24",
     "arbitro_principal": "Julián González"
   },
   {
     "_id": 8010,
     "equipo_local": "Leonas",
     "equipo_visitante": "Atheneas",
-    "fecha": ISODate("2023-03-24T20:30:00Z"),
+    "fecha": "2023-03-24",
     "arbitro_principal": "Marcela Gaitán"
   },
   {
     "_id": 8011,
     "equipo_local": "Soho",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-25T20:00:00Z"),
+    "fecha": "2023-03-25",
     "arbitro_principal": "Diana Rivera"
   },
   {
     "_id": 8012,
     "equipo_local": "Atheneas",
     "equipo_visitante": "Leonas",
-    "fecha": ISODate("2023-03-25T20:30:00Z"),
+    "fecha": "2023-03-25",
     "arbitro_principal": "Julián González"
   },
   {
     "_id": 8013,
     "equipo_local": "Leonas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-26T20:00:00Z"),
+    "fecha": "2023-03-26",
     "arbitro_principal": "Marcela Gaitán"
   },
   {
     "_id": 8014,
     "equipo_local": "Leonas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-26T20:30:00Z"),
+    "fecha": "2023-03-26",
     "arbitro_principal": "Pedro Cortés"
   },
   {
     "_id": 8015,
     "equipo_local": "Leonas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-27T20:00:00Z"),
+    "fecha": "2023-03-27",
     "arbitro_principal": "Diana Rivera"
   },
   {
     "_id": 8016,
     "equipo_local": "Leonas",
     "equipo_visitante": "Farplay",
-    "fecha": ISODate("2023-03-27T20:30:00Z"),
+    "fecha": "2023-03-27",
     "arbitro_principal": "Marcela Gaitán"
   }
 
 
 ]
-
