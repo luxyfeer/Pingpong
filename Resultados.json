@@ -1,0 +1,100 @@
+[ 
+  {
+    "_id": 21231,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 18,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21232,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 0,
+    "comentarios": "Amplia victoria local"
+  },
+  {
+    "_id": 21233,
+    "equipo_local_puntos": 12,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21234,
+    "equipo_local_puntos": 18,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21235,
+    "equipo_local_puntos": 3,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Amplia victoria visitante"
+  },
+  {
+    "_id": 21236,
+    "equipo_local_puntos": 6,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Amplia victoria visitante"
+  },
+  {
+    "_id": 21237,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 18,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21238,
+    "equipo_local_puntos": 18,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21239,
+    "equipo_local_puntos": 12,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Amplia victoria visitante"
+  },
+  {
+    "_id": 21240,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 0,
+    "comentarios": "Amplia victoria local"
+  },
+  {
+    "_id": 21241,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 18,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21242,
+    "equipo_local_puntos": 18,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21243,
+    "equipo_local_puntos": 18,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21244,
+    "equipo_local_puntos": 0,
+    "equipo_visitante_puntos": 21,
+    "comentarios": "Amplia victoria visitante"
+  },
+  {
+    "_id": 21245,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 15,
+    "comentarios": "Encuentro parejo"
+  },
+  {
+    "_id": 21246,
+    "equipo_local_puntos": 21,
+    "equipo_visitante_puntos": 15,
+    "comentarios": "Encuentro parejo"
+  }
+    
+]
+

@@ -1,0 +1,31 @@
+[ 
+  {
+    "_id": 201,
+    "nombre": "Julián",
+    "apellido": "González",
+    "edad": 32,
+    "categoria": "Internacional"
+  },
+  {
+    "_id": 202,
+    "nombre": "Pedro",
+    "apellido": "Cortés",
+    "edad": 40,
+    "categoria": "Nacional"
+  },       
+  {
+    "_id": 203,
+    "nombre": "Marcela",
+    "apellido": "Gaitán",
+    "edad": 34,
+    "categoria": "Internacional"
+  },
+  {
+    "_id": 204,
+    "nombre": "Diana",
+    "apellido": "Rivera",
+    "edad": 36,
+    "categoria": "Nacional"
+  }
+]
+

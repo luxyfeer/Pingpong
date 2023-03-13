@@ -1,0 +1,40 @@
+[ 
+  {
+    "_id": 901,
+    "equipo": "Leonas",
+    "partidos_jugados": 6,
+    "partidos_ganados": 2,
+    "partidos_perdidos": 4,
+    "puntos": 4,
+    "diferencia_puntos": -4
+  },
+  {
+    "_id": 902,
+    "equipo": "Farplay",
+    "partidos_jugados": 6,
+    "partidos_ganados": 4,
+    "partidos_perdidos": 2,
+    "puntos": 8,
+    "diferencia_puntos": -2
+  },
+  {
+    "_id": 903,
+    "equipo": "Soho",
+    "partidos_jugados": 6,
+    "partidos_ganados": 3,
+    "partidos_perdidos": 3,
+    "puntos": 6,
+    "diferencia_puntos": -4
+  },{
+    "_id": 904,
+    "equipo": "Atheneas",
+    "partidos_jugados": 6,
+    "partidos_ganados": 3,
+    "partidos_perdidos": 3,
+    "puntos": 6,
+    "diferencia_puntos": -2
+  }
+  
+  
+]
+

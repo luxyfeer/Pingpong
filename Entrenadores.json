@@ -1,0 +1,31 @@
+[ 
+  {
+    "_id": 101,
+    "nombre": "Nicolás",
+    "apellido": "Sánchez",
+    "edad": 33,
+    "equipo": "Leonas"
+  },
+  {
+    "_id": 102,
+    "nombre": "Luisa",
+    "apellido": "Uyasan",
+    "edad": 29,
+    "equipo": "Farplay"
+  },
+  {
+    "_id": 103,
+    "nombre": "María",
+    "apellido": "Conde",
+    "edad": 44,
+    "equipo": "Soho"
+  },
+  {
+    "_id": 104,
+    "nombre": "Martha",
+    "apellido": "Valero",
+    "edad": 30,
+    "equipo": "Atheneas"
+  }      
+]
+

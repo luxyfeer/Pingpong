@@ -1,0 +1,67 @@
+[ 
+  {
+    "_id": 1,
+    "nombre": "Luisa",
+    "apellido": "Pérez",
+    "edad": 25,
+    "equipo": "Leonas",
+    "posicion": "Atacante izquierdo"
+  },
+  {
+    "_id": 2,
+    "nombre": "Karla",
+    "apellido": "Giraldo",
+    "edad": 26,
+    "equipo": "Leonas",
+    "posicion": "Atacante derecho"
+  },
+  {
+    "_id": 3,
+    "nombre": "Juana",
+    "apellido": "Ocampo",
+    "edad": 23,
+    "equipo": "Farplay",
+    "posicion": "Atacante izquierdo"
+  },
+  {
+    "_id": 4,
+    "nombre": "Flor",
+    "apellido": "Gómez",
+    "edad": 27,
+    "equipo": "Farplay",
+    "posicion": "Atacante derecho"
+  },
+  {
+    "_id": 5,
+    "nombre": "Martina",
+    "apellido": "García",
+    "edad": 30,
+    "equipo": "Soho",
+    "posicion": "Atacante izquierdo"
+  },
+  {
+    "_id": 6,
+    "nombre": "Katherine",
+    "apellido": "Porto",
+    "edad": 24,
+    "equipo": "Soho",
+    "posicion": "Atacante derecho"
+  },
+  {
+    "_id": 7,
+    "nombre": "Alicia",
+    "apellido": "Ramirez",
+    "edad": 26,
+    "equipo": "Atheneas",
+    "posicion": "Atacante izquierdo"
+  },
+  {
+    "_id": 8,
+    "nombre": "Carolina",
+    "apellido": "Duque",
+    "edad": 27,
+    "equipo": "Atheneas",
+    "posicion": "Atacante derecho"
+  }       
+]
+
